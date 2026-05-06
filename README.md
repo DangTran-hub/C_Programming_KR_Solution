@@ -1,1 +1,1 @@
-## This repo save my solutions of excercises in the book The C programming language of Brinan W.K vs Dennis M.R
+## This repo saves my solutions of excercises in the book The C programming language of Brinan W.K vs Dennis M.R
