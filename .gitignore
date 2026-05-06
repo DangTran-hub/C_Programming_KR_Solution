@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+*.obj
+# Executable binaries
+*.exe
+*.out
+*.app
+
+# Debugging files
+*.gch
+*.pch
+*.dSYM/
+
+# Common IDE/Editor files (optional)
+.vscode/
+.idea/
+*~
